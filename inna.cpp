@@ -5,6 +5,12 @@
 // 10/26/2016
 //*****************************************************************************
 
+/* Program Description:
+INNA - Improve Nearest Neighbor Algorithm. Does not guarantee an optimal
+solution, but finds a "best guess" for the shortest path between all 
+vertices. 
+*/
+
 #include <iostream>
 #include <chrono>
 #include <math.h>
