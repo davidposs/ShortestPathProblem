@@ -5,6 +5,11 @@
 // 10/26/2016
 //*****************************************************************************
 
+/* Program Description:
+EOA - Exhaustic Optimization Algorithm - finds the shortest path by generating
+all permutations of the vertices and choosing the shortest Hamiltonian cycle.
+*/
+
 #include <iostream>
 #include <chrono>
 #include <math.h>
