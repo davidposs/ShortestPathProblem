@@ -6,7 +6,7 @@
 //*****************************************************************************
 
 /* Program Description:
-EOA - Exhaustic Optimization Algorithm - finds the shortest path by generating
+EOA - Exhaustive Optimization Algorithm - finds the shortest path by generating
 all permutations of the vertices and choosing the shortest Hamiltonian cycle.
 */
 
